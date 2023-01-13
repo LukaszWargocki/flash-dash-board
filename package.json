@@ -1,0 +1,25 @@
+{
+  "name": "flash-dash-board",
+  "version": "1.0.0",
+  "description": "a dashboard for tracking stock market data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukaszWargocki/flash-dash-board.git"
+  },
+  "keywords": [
+    "stock",
+    "market",
+    "dashboard"
+  ],
+  "author": "Łukasz Wargocki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukaszWargocki/flash-dash-board/issues"
+  },
+  "homepage": "https://github.com/LukaszWargocki/flash-dash-board#readme"
+}
